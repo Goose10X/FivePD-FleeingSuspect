@@ -13,8 +13,8 @@ Place the FleeingSuspect1.net.dll file in your FivePD Callouts folder
 Restart FivePD
 
 # Contact Me
-Discord: goose10x
-
+Discord: [Goose10X](https://discord.gg/VKamh4WUV5).
+<br>
 
 
 
